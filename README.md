@@ -24,3 +24,5 @@ model_new_cross_ent_step=268200.h5: This is the best trained weights for the mod
 small_training_data_file.pkl: Contains some training data
 Finally there are two folders containing the games from the 1000 game match and the 200 game match between the model and KataGo. 
 These contain README files to further explain the matches. 
+
+This project was developed as part of my Master’s degree in Electronic Engineering at Trinity College Dublin. The code presented here is my own work and is shared for educational and portfolio purposes only.
